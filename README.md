@@ -10,7 +10,7 @@ Para rodar o projeto você precisa ter instalado o [Tmux](https://github.com/tmu
 Para iniciar o projeto você pode começar clonando o repositório com o seguinte comando.
 
 ```bash
-git clone # link
+git clone https://github.com/DevRadhy/terminal-chat.git
 # ou gh repo clone DevRadhy/terminal-chat
 ```
 
